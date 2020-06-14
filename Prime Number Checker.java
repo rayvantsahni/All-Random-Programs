@@ -1,7 +1,9 @@
-// The programs check whether a certain number is prime or not!
-// The program return 'true' if it is a Prime,
-// And 'false' if it is NOT a Prime
-// Its complexity is O(sqrt(n)/2)
+/*
+The programs check whether a certain number is prime or not!
+The program return 'true' if it is a Prime,
+And 'false' if it is NOT a Prime
+Its complexity is O(sqrt(n)/2)
+*/
 
 import java.util.Scanner;
 import java.lang.Math;
