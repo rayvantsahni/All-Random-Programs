@@ -5,15 +5,12 @@ Write a program that reads a string and two integer numbers. These two numbers a
 Java
 
 0 2
-
 #### Sample Output 1:
 Jav
-
 
 #### Sample Input 2:
 Python
 
 1 5
-
 #### Sample Output 2:
 ython
