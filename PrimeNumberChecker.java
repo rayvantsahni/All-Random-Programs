@@ -8,7 +8,7 @@ Its complexity is O(sqrt(n)/2)
 import java.util.Scanner;
 import java.lang.Math;
 
-public class Main
+public class PrimeNumberChecker
 {
     static boolean prime;
 
