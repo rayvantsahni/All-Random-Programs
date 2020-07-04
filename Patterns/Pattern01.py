@@ -18,6 +18,7 @@ while row < height:
     
 '''
     Sample pattern:
+    
           *
          ***
         *****
