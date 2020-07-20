@@ -16,6 +16,7 @@ def prime_factor(n):
             divisors.append(n // i)
     return list(set(divisors + [n]))
     
+    
 def get_prime_factors(n):
     prime_factors = []
     
@@ -28,3 +29,7 @@ def get_prime_factors(n):
                 break
                 
     return prime_factors
+
+
+
+print(get_prime_factors(360))
