@@ -1,2 +1,2 @@
 # Basic-Programs
-Just some basic programs usually implemented while learning a new language..
+Just some basic and random programs usually implemented while playing around a concept.
